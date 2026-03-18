@@ -33,3 +33,31 @@ RAG reduce las alucinaciones porque antes de responder le proporciona al modelo 
 ## 3. ¿Qué ventajas tiene usar una base vectorial?
 
 Una base vectorial permite almacenar la información en forma de embeddings y realizar búsquedas por significado. Esto hace posible encontrar documentos relacionados con una pregunta aunque no tengan exactamente las mismas palabras, lo que mejora la calidad de las respuestas del sistema.
+
+
+# Evidencias de ejecución
+
+## Pregunta 1
+![Pregunta 1](CapturasEjemplo/Pregunta1.jpg)
+
+### Respuesta
+
+![Respuesta 1](CapturasEjemplo/Respuesta1.jpg)
+
+---
+
+## Pregunta 2
+![Pregunta 2](CapturasEjemplo/Pregunta2.jpg)
+
+### Respuesta
+
+![Respuesta 2](CapturasEjemplo/Respuesta2.jpg)
+
+---
+
+## Pregunta fuera de contexto
+![Pregunta fuera de contexto](CapturasEjemplo/Pregunta_Fuera_Contexto.jpg)
+
+### Respuesta
+
+![Respuesta fuera de contexto](CapturasEjemplo/Respuesta_Fuera_Contexto.jpg)
