@@ -61,3 +61,7 @@ Una base vectorial permite almacenar la información en forma de embeddings y re
 ### Respuesta
 
 ![Respuesta fuera de contexto](CapturasEjemplo/Respuesta_Fuera_Contexto.jpg)
+
+## Conclusión
+
+En este laboratorio se logró implementar un sistema RAG funcional y entender mejor cómo trabajan las herramientas de inteligencia artificial modernas. Se pudo observar que el sistema responde bien cuando la información está en la base de datos, pero cuando no, puede dar respuestas más generales o incluso equivocadas. Esto ayuda a entender por qué es importante el uso de contexto en los modelos de lenguaje. En general, la práctica permitió comprender mejor cómo funcionan los sistemas RAG y por qué son tan utilizados actualmente.
